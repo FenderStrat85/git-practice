@@ -1,10 +1,10 @@
 let a = 1;
 let b = 2;
 
-function add (num1, num2) {
-  return num1+num2
+function minus (num1, num2) {
+  return num1-num2
 }
 
-add(a, b)
+minus(a, b)
 
 //Jake has crazy outfits
