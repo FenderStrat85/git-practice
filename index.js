@@ -6,3 +6,5 @@ function add (num1, num2) {
 }
 
 add(a, b)
+
+//Jake has crazy outfits
